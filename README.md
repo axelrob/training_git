@@ -1,2 +1,3 @@
-# training_git
+# the_best
+
 Blog course Git and Github
